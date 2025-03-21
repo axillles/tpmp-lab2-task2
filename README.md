@@ -1,9 +1,9 @@
 <header>
 
 # Hello GitHub Actions
-
+:grinning:
 _Create and run a GitHub Actions workflow._
-
+:grinning:
 </header>
 
 ## Step 5: Trigger the workflow
